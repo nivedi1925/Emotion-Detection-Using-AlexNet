@@ -31,8 +31,9 @@ The model is trained on a publicly available facial emotion dataset, such as the
 
 ## Results
 
-- Achieved approximately **90-95% accuracy** on the test set depending on training parameters and dataset used.
+- Achieved approximately **50-55% accuracy** on the test set depending on training parameters and dataset used.
 - Model performance can be improved with data augmentation and hyperparameter tuning.
+- Traning with newer CNN architecture model is prefered.
 
 
 ## Challenges
