@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# created Emotion Detection using AlexNet write github readme for this
-
-Here is a professional and concise GitHub README template for your Emotion Detection project using AlexNet, based on relevant examples and best practices from similar projects:
-
 # Emotion Detection Using AlexNet
 
 ## Overview
