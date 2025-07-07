@@ -48,5 +48,6 @@ The model is trained on a publicly available facial emotion dataset, such as the
 - FER2013 Dataset: Kaggle - Facial Expression Recognition Challenge
 
 ## Sample Web Application Screenshots
+![](images/happy.png) ![](images/surprised.png)
 
 
